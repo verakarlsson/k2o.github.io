@@ -8,6 +8,11 @@ text-align: center;
 color: blue;
 
 }
+.text {
+  font-size: small;
+  text-align: right;
+  color: blue; 
+}
 /* 
 body {
   background-color: powderblue;
