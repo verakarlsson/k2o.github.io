@@ -1,4 +1,4 @@
-/* body {
+body {
 background-color: powderblue;
 
 }
@@ -7,8 +7,8 @@ font-size: small;
 text-align: center;
 color: blue;
 
-} */
-
+}
+/* 
 body {
   background-color: powderblue;
   margin: 0;
@@ -23,7 +23,7 @@ body {
   left: 50%;
   transform: translate(-50%,-50%); */
 }
-span{
+/* span{
   animation: mover 6s linear infinite;
   display: inline-block;
   color: #2030df;
@@ -54,4 +54,4 @@ span:nth-child(2)
 span:nth-child(3)
 {
   animation-delay: 3.5s;
-}
+} */ */
