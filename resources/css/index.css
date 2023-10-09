@@ -39,20 +39,20 @@ span{
   color: #2030df;
   font-weight: bolder;
 }
-@keyframes mover
+@keyframes mover 
 /* @-o-keyframes mover  */
 {
-  0%{
-      text-shadow: 0 0 30px rgba(0, 0, 0, 0);
-    }
-  50%{
-      text-shadow: 0 0 30px rgba(0, 0, 0, 0.30);
-      transform: translateY(30px);
-    }
-  100%
-    {
-      text-shadow: 0 0 30px rgba(0, 0, 0, 0);
-    }
+0%{
+text-shadow: 0 0 30px rgba(0, 0, 0, 0);
+}
+50%{
+text-shadow: 0 0 30px rgba(0, 0, 0, 0.30);
+transform: translateY(30px);
+}
+100%
+{
+text-shadow: 0 0 30px rgba(0, 0, 0, 0);
+}
 }
 span:nth-child(1)
 {
