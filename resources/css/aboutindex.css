@@ -1,11 +1,8 @@
 body {
     background-color: powderblue;
   }
-  h1 {
+  .index {
     text-size-adjust: 10;
     text-align: center;
     color: blue;
-  }
-  p {
-    color: red;
   }
