@@ -39,8 +39,8 @@ span{
   color: #2030df;
   font-weight: bolder;
 }
-/* @keyframes mover */
-@-o-keyframes mover 
+@keyframes mover
+/* @-o-keyframes mover  */
 {
   0%{
       text-shadow: 0 0 30px rgba(0, 0, 0, 0);
