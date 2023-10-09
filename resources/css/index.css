@@ -5,13 +5,13 @@ background-color: powderblue;
 .k2o {
 font-size: small;
 text-align: center;
-color: blue;
+color: rgb(5, 5, 5);
 
 }
 .text {
   font-size: small;
   text-align: left;
-  color: blue; 
+  color: rgb(1, 1, 1); 
 }
 /* 
 body {
