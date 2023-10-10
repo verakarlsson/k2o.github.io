@@ -27,20 +27,20 @@ color: rgb(5, 5, 5);
   font-family: sans-serif;
   position: absolute;
   text-align: center;
-  top: 70%;
+  top: 75%;
   left: 50%;
   transform: translate(-50%,-50%);
 
 }
 
 span{
-  animation: mover 6s linear infinite;
+
   display: inline-block;
-  color: #2030df;
   font-weight: bolder;
+  animation: mover 6s linear infinite;
+  color:  powderblue;
 }
 @keyframes mover 
-/* @-o-keyframes mover  */
 {
 0%{
 text-shadow: 0 0 30px rgba(0, 0, 0, 0);
