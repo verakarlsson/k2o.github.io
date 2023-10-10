@@ -3,9 +3,9 @@ background-color: rgb(247, 245, 245);
 
 }
 .k2o-1 {
-font-size: small;
+font-size: medium;
 text-align: left;
-color: rgb(189, 182, 182);
+color: rgb(12, 213, 236);
 
 }
 .text {
@@ -25,9 +25,10 @@ color: rgb(5, 5, 5);
 .k2o-2 {
 
   font-size: 80px;
-  font-family: sans-serif;
+  /* font-family: sans-serif; */
+  font-family:'Courier New', Courier, monospace;
   position: absolute;
-  top: 15%;
+  top: 10%;
   left: 80%;
   transform: translate(-50%,-50%);
 
@@ -37,8 +38,8 @@ span{
 
   display: inline-block;
   font-weight: bolder;
-  animation: mover 9s linear infinite;
-  color:  rgb(127, 134, 134);
+  animation: mover 18s linear infinite;
+  color:  rgb(180, 239, 251);
 }
 @keyframes mover 
 {
