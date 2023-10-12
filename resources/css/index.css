@@ -3,11 +3,6 @@ margin: 0px;
 background-color: rgb(247, 245, 245);
 }
 
-.background {
-  background-image: url(/resources/images/run-away.png);
-  background-size: cover;
-}
-
 .email {
 font-size: medium;
 text-align: left;
@@ -36,6 +31,7 @@ color: rgb(0, 27, 163);
 
 .text {
   font-size: small;
+  margin-left: 6px;
   text-align: left;
   color: rgb(0, 27, 163); 
 }
@@ -45,6 +41,7 @@ color: rgb(0, 27, 163);
 .back {
 font-size: medium;
 text-align: right;
+margin-right: 5px;
 color: rgb(5, 5, 5);
 text-shadow: rgb(163, 146, 146) 1px 0 10px;
 
