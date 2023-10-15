@@ -1,6 +1,10 @@
 body {
+
+background-image: url('../images/no-secrets2.png'); 
+background-position: center;
+background-size: cover;
 margin: 0px;
-background-color: rgb(247, 245, 245);
+background-color: rgb(249, 251, 251);
 }
 
 .email {
@@ -33,6 +37,7 @@ color: rgb(0, 27, 163);
   font-size: small;
   margin-left: 6px;
   text-align: left;
+  text-shadow: rgb(163, 146, 146) 10px 0 10px;
   color: rgb(0, 27, 163); 
 }
 
