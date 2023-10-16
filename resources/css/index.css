@@ -1,6 +1,6 @@
 body {
 
-background-image: url('../images/no-secrets2.png'); 
+/* background-image: url('../images/no-secrets2.png');  */
 background-position: center;
 background-size: cover;
 margin: 0px;
@@ -37,7 +37,7 @@ color: rgb(0, 27, 163);
   font-size: small;
   margin-left: 6px;
   text-align: left;
-  text-shadow: rgb(163, 146, 146) 10px 0 10px;
+
   color: rgb(0, 27, 163); 
 }
 
@@ -49,7 +49,11 @@ text-align: right;
 margin-right: 15px;
 color: rgb(5, 5, 5);
 text-shadow: rgb(163, 146, 146) 1px 0 10px;
+}
 
+.gal {
+
+  
 }
 
 .logo {
