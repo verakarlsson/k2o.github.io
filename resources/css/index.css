@@ -35,12 +35,19 @@ height: 100%;
 }
 
 .text {
-font-size: small;
+font-size: medium;
 font-family: Redaction35-Regular;
 margin-left: 10px;
 text-align: left;
-
 color: rgb(0, 27, 163); 
+}
+
+.passe-avant {
+font-size: small;
+font-family: Redaction35-Italic;
+text-align: right;
+margin: 20px;
+color: rgb(1, 73, 78); 
 }
 
 
@@ -53,14 +60,7 @@ color: rgb(5, 5, 5);
 text-shadow: rgb(163, 146, 146) 1px 0 10px;
 }
 
-.passe-avant {
-font-size: small;
-font-family: Redaction35-Regular;
-text-align: right;
-font-style: italic;
-margin-right: 20px;
 
-}
 
 .logo {
   font-size: 60px;
