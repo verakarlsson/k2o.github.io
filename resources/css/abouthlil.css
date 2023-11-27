@@ -39,7 +39,7 @@ body {
     font-family: Redaction35-Italic;
     margin-left: 10px;
     text-align: left;
-    color: rgb(0, 27, 163); 
+    color: black;
     
     }
     .text {
@@ -47,7 +47,7 @@ body {
     font-family: Redaction35-Regular;
     margin-left: 10px;
     text-align: left;
-    color: rgb(0, 27, 163); 
+    color: black;
     }
     
     .textlink {
@@ -55,7 +55,7 @@ body {
     font-family: Redaction35-Regular;
     margin-left: 10px;
     text-align: left;
-    color: rgb(0, 27, 163);
+    color: black;
     text-shadow: rgb(191, 183, 183) 1px 0 7px; 
     }
     
@@ -66,7 +66,7 @@ body {
     font-family: Redaction35-Italic;
     text-align: right;
     margin: 20px;
-    color: rgb(0, 27, 163); 
+    color: black;
     }
     
     .passe-avantlink {
@@ -74,7 +74,7 @@ body {
     font-family: Redaction35-Italic;
     text-align: right;
     margin: 20px;
-    color: rgb(0, 27, 163); 
+    color: black;
     text-shadow: rgb(192, 179, 179) 1px 0 7px;
     }
     
@@ -84,13 +84,14 @@ body {
     font-family: Redaction50-Regular;
     text-align: left;
     margin-left: 15px;
-    color: rgb(5, 5, 5);
+    color: black;
     text-shadow: rgb(163, 146, 146) 1px 0 10px;
     }
     
     
     
     .logo {
+      color: rgb(100, 92, 92);
       font-size: 60px;
       font-family: Redaction35-Bold;
       text-shadow: rgb(10, 10, 10) 1px 0 10px;
@@ -110,6 +111,16 @@ body {
       color: rgba(0, 0, 0, 0.481); 
     }
     
+    a:link {
+      color: black;
+    }
+    
+    /* visited link */
+    a:visited {
+      color: black;
+    }
+    
+
     /* @keyframes mover 
     {
     0%{
