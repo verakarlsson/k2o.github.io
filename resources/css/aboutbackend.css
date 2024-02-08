@@ -1,7 +1,12 @@
 body {
     margin: 0 auto;
   }
+  img{
+    width: 100%;
+    /* height: auto;
+    position: relative; */
+    }
 .backend {
-    margin: 0px;
-    position: relative;
+  margin: 0px;
+
     }
